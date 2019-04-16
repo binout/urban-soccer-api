@@ -1,0 +1,3 @@
+= urban-soccer-api
+
+A REST API for https://www.urbansoccer.fr/[https://www.urbansoccer.fr/]
